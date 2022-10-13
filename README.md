@@ -1,6 +1,6 @@
 #	Dungens & Dragons
 A CLI D&D game with a GOT inspired theme.
-Sritten in java utilizing design patterns such as Observer, Visitor, Callback.
+Written in java utilizing design patterns such as Observer, Visitor, Callback.
 
 Start the game with the following command: ```java -jar hw3.jar levels_dir```
 
